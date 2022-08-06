@@ -1,0 +1,20 @@
+{
+   "Productivity Tips":{
+      "Achieving Goals":[
+         {
+            "first":"Prioritize tasks to ensure you are managing your time efficiently!",
+            "second":"Avoid multitasking. Focus on one goal at a time!",
+            "third":"Plan ahead and create routine!",
+            "fourth":"Optimize your routine and kick out distractions!"
+         }
+      ],
+      "How To Be Consistent":[
+         {
+            "fifth":"Take care of your health! Get good sleep and eat healthy!",
+            "sixth":"Be realistic! Do not force yourself to do too much, especially if you are starting!",
+            "seventh":"Take regular break to combat burnout!",
+            "eighth":"Stay hydrated!"
+         }
+      ]
+   }
+}
